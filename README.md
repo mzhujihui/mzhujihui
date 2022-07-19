@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://github.com/mzhujihui/road-to-fe">前端之路</a> |
+    <a href="https://github.com/mzhujihui/road-to-fe">博客</a> |
     <a href="https://juejin.cn/user/184373686320776">掘金</a>
   </samp>
 </p>
